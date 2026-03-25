@@ -1,4 +1,4 @@
-# ArabicTextAuthorshipStyleTransfer
+# Arabic Text Authorship Style Transfer
 
 This repository contains the ArabicTextAuthorshipStyleTransfer dataset described in the paper:
 
