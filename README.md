@@ -18,7 +18,7 @@ If you use this dataset in your work, please cite our paper:
   publisher={Association for Computing Machinery}
 }
 
-Please refer also to the following papers:
+To compare the performance of your work with other systems/models that used these datasets, you can also refer to the following papers:
 
 @inproceedings{abudalfa2026abjadstyletransfer,
   title={AbjadStyleTransfer: Authorship Style Transfer for Arabic-Script Languages at AbjadNLP 2026},
