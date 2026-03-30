@@ -18,6 +18,8 @@ If you use this dataset in your work, please cite our paper:
   publisher={Association for Computing Machinery}
 }
 
+ACM link: [https://dl.acm.org/doi/10.1145/3806046](https://dl.acm.org/doi/10.1145/3806046)
+
 To compare the performance of your work with other systems/models that used this dataset, you can also refer to the following papers:
 
 @inproceedings{abudalfa2026abjadstyletransfer,
