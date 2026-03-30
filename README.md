@@ -8,14 +8,20 @@ Journal: ACM Transactions on Asian and Low-Resource Language Information Process
 
 If you use this dataset in your work, please cite our paper:
 
-@article{Abudalfa2026atast,
-  title={Arabic-based Agent for Authorship Style Transfer},
-  author={Abudalfa, Shadi and Mughaus, Raed and Abdelali, Ahmed},
-  journal={ACM Transactions on Asian and Low-Resource Language Information Processing},
-  number={1},
-  pages={1},
-  year={2026},
-  publisher={Association for Computing Machinery}
+@article{10.1145/3806046,
+author = {Abudalfa, Shadi and Mughaus, Raed and Abdelali, Ahmed},
+title = {Arabic-based Agent for Authorship Style Transfer},
+year = {2026},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+issn = {2375-4699},
+url = {https://doi.org/10.1145/3806046},
+doi = {10.1145/3806046},
+abstract = {Authorship style transfer focuses on modifying text to align with a specific author’s writing style while maintaining its original meaning. In this study, we investigate this task in the context of Arabic text. To the best of our knowledge, this is the first work addressing authorship style transfer in the Arabic domain. Our approach begins with the construction of a novel Arabic parallel dataset for this task. Subsequently, we adapt a set of language models to evaluate how well they can recognize authorship and rewrite input text in the stylistic voice of a target author without altering the underlying semantics. The evaluation includes three large language models (LLMs) alongside one non-LLM Arabic-specific model, allowing us to demonstrate that the presented framework remains effective across different model architectures. As an outcome of this research, we introduce an Arabic language agent capable of performing authorship style transfer with competitive results.},
+note = {Just Accepted},
+journal = {ACM Trans. Asian Low-Resour. Lang. Inf. Process.},
+month = mar,
+keywords = {Arabic Authorship, Style Transfer, Identification, Parallel Dataset, LLMs, Sequence-to-sequence Transformer}
 }
 
 ACM link: [https://dl.acm.org/doi/10.1145/3806046](https://dl.acm.org/doi/10.1145/3806046)
